@@ -8,3 +8,7 @@ Created for learning Git
 
 - Learn Git
 - Learn GitHub
+
+## Exercises
+
+- Level 1
