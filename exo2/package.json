@@ -1,0 +1,21 @@
+{
+  "name": "exo2",
+  "version": "1.0.0",
+  "description": "git project exo",
+  "keywords": [],
+  "homepage": "https://github.com/DEVELOPPERMICH237/git-td-Sarraf#readme",
+  "bugs": {
+    "url": "https://github.com/DEVELOPPERMICH237/git-td-Sarraf/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DEVELOPPERMICH237/git-td-Sarraf.git"
+  },
+  "license": "ISC",
+  "author": "Sarraf",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
